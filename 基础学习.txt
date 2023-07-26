@@ -1,0 +1,293 @@
+20230725
+
+一.  8个句子成分和基本句型
+
+主语 谓语 表语 宾语 宾语补足语 状语 定语 同位语 
+
+1. 主语： 
+    名词: 人名 地名
+    人称代词主格： i you she he we they it 
+    数词
+    动词不定式短语
+    动名词短语
+    句子
+    其他
+
+2. 谓语：说明主语动作/主语情况
+    动作型谓语：eat drink know consider hope 
+
+        简单谓语： 一个实义动词/动词短语
+        复合谓语； 
+            (1) 情态动词 + 实义动词/动词原型
+            I (can speak) xxx
+            I (can look after) her
+
+            (2) 助动词 ＋ 实义动词或者动词短语的原形
+            I (will buy) a new book tomorrow.
+
+            (3) 助动词 ＋ 其他动词形式
+            I (am working) now. // 现在进行时
+            I (have learned) English for 10 years.  // 现在完成时： 我已经学了10年英语
+
+    状态型谓语： 系动词(连系动词) + 表语
+        系动词： be am is are
+
+        I (am happy)
+        You (are cool)
+
+
+3. 表语
+    形容词，名词，介词短语, 其他 作表语
+    (1)
+    I am rich.
+    It is beautiful.
+
+    (2)
+    You are my(定语) (friend).
+    She is a (nurse)(护士).
+
+    (3)
+    I am (in Guangxi).
+    She is (in the classroom).  
+
+
+
+4. 宾语： 动作的对象或者承受者
+    及物动词：指需要宾语才能完成句意的动词 eg: buy, borrow, give 
+    及物动词后面的词语就是宾语
+
+    能做主语的词语都可以做宾语， 注意人称人称代词为宾格
+    (1) 名词作宾语
+    pen comb(梳子) key(钥匙)
+    I buy a (book) every year. 
+    I found (my key).
+
+    (2) 人称代词宾格作宾语
+    me you her him  us them  it
+    I believe (her).
+    She loves (him).
+
+    (3) 数词作宾语
+    i want two.
+
+    (4)
+    有些及物动词后面可以跟两个宾语。
+    一个叫直接宾语，另一个叫间接宾语。
+    一般米说，表示人的叫间接宾语，表示物的叫直接宾语。
+
+    I gave (her) a (book).
+    I gave a (book) to (her).
+
+    附：能带两个宾语的及物动词称为双宾动词，常见的有：
+    Give/buy (买) lead（借出）send（寄，送）teach（教）
+    tell（告诉）   show（展示） sing(唱）   write （写)
+    offer（提供） leave（留下）
+    prepaer 准备）get（使…得）
+
+
+5. 宾语补足语： 补充宾语的词语，简称宾补。
+    有些动词加上宾语之后，意思还是不完整，比如下面特定的及物动词：
+    Make(使，让)  let(让)    get(让)     have(让，使) find（发现）
+    call 叫，称为  see（看见） keep（保持） put（放）
+
+    就需要加上一个词语补充宾语的意思，使整个句子意思完整。
+
+    (1) adj 作宾补
+    I make you (happy).
+
+    (2) n 作宾补
+    I will make her a happy (woman).
+    I call her (Mary).
+
+
+6. 状语：就是说明谓语的情况，状语只跟谓语有关系。
+
+    状语一般由副词， 介词短语充当.
+
+    (1) 地点状语
+    I teach English (In Bejing).
+    I teach English (In Bejing) now.
+
+    (2) 时间副词
+    We are learning English (now).  
+
+    (3) 方式副词作方式状语
+    I speak English (slowly).
+
+    (4) He (often) plays basketball after school.
+
+
+7. 定语：修饰或限定名词的词语叫定语。定语只跟名词有关系
+例： 中文的定语 (我的)书 (昨天买的)书
+
+    前置定语： 
+        (1)形容词性物主代词作前置定语：
+        我的，你的，他/她的 我们的， 他们的
+        my   your his her our their
+
+        (my) book 
+
+        (2) ady 作前置定语：
+        (good) book
+
+        ...
+
+    后置定语： 
+        The price (of the book)
+        The girl (under the tree)
+
+
+8. 同位语: 两个不同的词语都表示同一个事物或人
+
+
+9. 五个基本句型：
+
+    (1) 主语 ＋ 谓语(不及物动词)＋状语（表示动作）
+    I work every day.
+    I run every day.
+    I live in Zhongshan city.
+
+    (2) 主语 + be（系动词）＋ 表语 ＋ 状语(表示状态)
+    She is rich now.
+    I am in Guangdong now.
+    I was a worker before.
+
+
+    (3) 主语 ＋ 谓语(及物动词) ＋ 宾语 ＋ 状语（表示动作）
+    I read English every morning.
+    We bake(烤) beef every month.
+    She learns English very (hard).
+
+
+    (4) 主语 ＋ 谓语(及物动词里面的双宾动词) ＋ 双宾语 ＋ 状语（表示动作）
+    即： 主语 ＋ 双宾动词 ＋ 间接宾语 ＋ 直接宾语 ＋ 状语
+    I gave her a book yesterday.
+    They send me a computer last week.
+
+    (5) 主语 ＋ 谓语(少数特定的及物动词) ＋ 宾语 ＋ 宾补 ＋ 状语(表示动作)
+    I made her happy yesterday.
+    Her father called her Baby Bear before. 她爸爸以前叫她‘宝贝小熊’
+
+
+    总结： 
+    状态型： 2    主系表
+    动作型： 1345 主谓宾
+
+
+
+
+
+
+二. 名词
+1. 名词分类：
+普通名词
+    可数名词: skies  memories tears(眼泪)
+        元音： A E I O U 
+        (1) 辅音字母+y: 变y 为i, 加 es.
+        country--> countries baby-->babies
+
+        (2) f/fe --> v + es
+        wife-->wives knife-->knives thief-->thieves leaf-->leaves
+
+        (3) 辅音字母+o  --> + es 
+        tomato-->tomatoes potato-->potatoes hero-->heroes
+
+        (4) child-->children man-->men mouse-->mice
+
+        (5) sheep-->sheep chinese-->chinese(中国人)
+
+        (6) 复数名词：只有复数格式
+        people police public(公众) clothes cattle(牛)
+
+        (7) 量词
+        a basket of apples
+        
+    不可数名词
+        a lot of money, water
+        可以加量词表数量： 
+            a glass of water, 
+            two glasses of water
+            a bar of chocolate
+
+专有名词
+
+
+2. 名词作用
+    (1) 作主语: 可数名词加限定词，不可数名词直接用
+    (The book) is new.
+    (My books) are good.
+    (Water) is important. 
+
+    (2) 作表语： 说明主语的身份
+    He is my (friend).
+    This is a (cellphone).
+
+    (3) 作宾语： 
+    I like (pears).
+    He does his (homework) very carefully.
+
+
+    (4) 作宾补
+    call, make
+    I call him (Uncle Tom).
+    My sister calls the pig (Piggy).
+    I will make her (a) happy (woman).
+
+    (5) 作定语： (名词作定语的情況不多，并且可以理解为一个复合名词)
+    English book
+    School gate 
+    Room number
+
+    补充： 复合名词  由第二个名词决定是可数，还是不可数
+    English book (可数)
+    Chicken soup (不可数)
+
+
+3. 名词所有格
+
+(1) 有生命的名词(人/动物) + 's 
+由 s 构成的名词所有格作前置定语：
+    专有名词: 
+        Mather's hands
+
+        单复数:
+        Nick's book 
+        Nick's books
+
+    普通名词加限定词: 
+        My friend's  
+        The doctor's  
+        My sister's friends
+        
+
+        特殊一： 以 s 结尾的 名词
+        the boss' car
+        the boss's car 
+
+        teachers' day
+
+        特殊二： today's newspaper
+
+做表语：
+    Whose pen is it? It is (Tom's).
+    The house is (my father's).
+
+
+(2) 无生命的名词: 'of + 无生命的名词'
+作后置定语 
+可数名词:
+the center (of the city)
+of houses
+of my house
+of this coat 
+
+不可数名词:
+Of water
+Of oil
+
+
+
+
+
+
+
