@@ -9,7 +9,8 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
 
 1. 主语： 
     名词: 人名 地名
-    人称代词主格： i you she he we they it 
+    人称代词主格： 
+
     数词
     动词不定式短语
     动名词短语
@@ -296,6 +297,71 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
     The size (of my shoes).
 
 
+
+
+三. 代词
+
+1. 人称代词
+    (1) 作主格宾格：
+    主格: I  you she he  we they  it 
+    宾格: me you her him us them  it
+
+    I like (her).
+    They believe (me).
+
+    (2) 作表语：主格宾格都可以
+
+    (3) 两个或两个以上的人称代词作主格顺序：
+    You he/she and I	
+    We you and they
+
+
+2. 物主代词: 表示所有关系的代词. 包括 形容词性物主代词 和 名词性物主代词.
+
+    (1)形容词性物主代词
+    My  your her his its our   their 
+    我的 你的 她的 他的 它的 我们的 他们的
+
+    This is (my)作定语 book.
+    my houses
+    my house
+
+    (2) 名词性物主代词
+    Mine yours hers his its ours theirs
+    我的  你的   她的 他的 它的 我们的 他们的
+
+    Your book is more expensive than mine.
+    My student is better than hers.
+    Q:  My car is very good.
+    A1: (Mine) is better.
+    A2: I want (yours).
+
+
+3. 指示代词
+    单数：this  that
+    复数：these those
+
+    作定语
+    (1) this that 作前置定语：专门修饰/限定可数名词单数，不能修饰复数； 也可修饰不可数名词.
+    This house
+    This computer
+
+    This water 
+    That money
+
+
+    (2) these those 修饰复数
+    Those books
+    I support these boys.
+
+
+    作主语
+    This/That + is/was
+    These/+Those + are/were
+    
+    This is my book.
+    These are her pencils.
+    Those are my students.
 
 
 
