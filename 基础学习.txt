@@ -277,16 +277,29 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
 
 
 (2) 无生命的名词: 'of + 无生命的名词'
-作后置定语 
-可数名词:
-the center (of the city)
-of houses
-of my house
-of this coat 
+    作后置定语 
+    可数名词:
+    the center (of the city)
+    of houses
+    of my house
+    of this coat 
+    Of the airport
 
-不可数名词:
-Of water
-Of oil
+    不可数名词:
+    Of water
+    Of oil
+
+    注意: The + 名词 是 of 后面名词的一部分.
+    The color (of my laptop).
+    The colors (of my flowers). 
+    The water (of the lake/river).
+    The size (of my shoes).
+
+
+
+
+
+
 
 
 
