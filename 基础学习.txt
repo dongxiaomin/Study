@@ -118,7 +118,8 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
     (3) 方式副词作方式状语
     I speak English (slowly).
 
-    (4) He (often) plays basketball after school.
+    (4) 频度副词
+    He (often) plays basketball after school.
 
 
 7. 定语：修饰或限定名词的词语叫定语。定语只跟名词有关系
@@ -631,6 +632,217 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
     at table 进餐 at the table 在桌子旁边
 
     ...
+
+
+
+
+
+七. 时态: 谓语动词发生变化。
+
+常用的时态：一般现在时，一般过去时，一般将来时，现在进行时，现在完成时
+
+
+八. 一般现在时
+
+1. 主系表结构
+
+    (1)
+
+        ①人称代词主格（主语）+ is/are/am ＋ 形容词（表语）
+        ②名词（主语）+ is/are +形容词（表语）
+
+        ③人称代词主格（主语）+ is/ are/ am + 名词（表语）
+        ④名词 (主语) + is/are + 名词（表语）
+
+
+        ①
+        We are famous.
+
+        ②
+        Nick is busy.
+        Nick and Jack are busy.
+
+        Guangxi is big.
+        The student is happy.
+        Nick's student is busy.
+
+        Teachers are busy.
+        Water is important.
+
+        ③
+        She is Nick.
+
+        I am a host.
+        They are teachers.
+        It is my dog.
+
+        ④
+        Nick is a teacher.
+        Rice is important food.
+
+
+
+    (2) 否定句
+
+        I'm a teacher.
+        I'm not a teacher.
+
+        She is pretty.
+        She isn't pretty.
+
+        We are students.
+        We are not students.
+
+        It is a book.
+        It is not a book.
+
+
+
+    (3) 一般疑问句
+
+        I am a teacher.
+        Are you a teacher?
+
+        You are great.
+        Are you great?
+
+        We are students?
+        Are you students?
+
+        My teacher is busy.
+        Is your teacher busy?
+        Is my teacher busy?
+
+
+
+2. 主谓宾: 非第三人称单数：I we you they
+
+    (1)
+
+    <1> 人称代词主格作(主语) + 不及物动词原型 + 状语
+    I work/sleep/run/walk/...(不及物动词) every day.
+
+    <2> 名词复数(主语) + 不及物动词原型 + 状语
+    My/Nick's/Their/The friends work every day.
+    The nurses work every day.
+
+    Nick and Jack are work every day.
+
+    <3> 人称代词主格作(主语) + 及物动词原型 + 宾语
+    I believe doctors.
+    We believe my friend.
+    You buy books every month.
+    They bake bananas/potatoes/beef every day.
+
+    <4> 名词复数(主语) + 及物动词原型 + 宾语
+    The nurses believe their teacher.
+    My daughters drink milk every day.
+    His secretaries buy books every month.
+    The nurses bake bananas/potatoes/beef every day.
+
+    Nick and Jack buy clothes every month.
+
+
+    (2) 疑问句 否定句
+
+    My friends believe me.
+    My friends don't believe me.
+    Do your friends believe you?
+
+    We eat rice every day.
+    We don't rice every day.
+    Do you eat rice every day?
+
+
+
+3. 主谓宾: 第三人称单数
+
+    人称代词主格：she he it
+    人名，地名：  Nick Guangxi
+    不可数名词：  water, sugar
+    指示代词：    this that
+
+
+    (1)
+    <1> 人称代词主格作(单三) + 不及物动词(单三格式) + 状语
+    She bathes every day.
+    He runs every day.
+    It sleeps every day.
+
+
+    <2> 名词单数(单三) + 不及物动词(单三格式) + 状语
+    The singer sings every day.
+    My secretary rests every day.
+    The actor sits every day.
+    My friend works every day.
+    The nurse bathes every day.
+
+    Nick runs every day.
+
+
+    <3> 人称代词主格作(单三) + 及物动词(单三格式) + 宾语
+
+    She believes doctors.
+    He believes my friend.
+    She buys books every month.
+    It bakes bananas/potatoes/beef every day.
+
+
+    <4> 名词单数(单三) + 及物动词(单三格式) + 宾语
+    His fan sells corn every day.
+    My leader likes her.
+    Our guide bakes bananas/potatoes/beef every day.
+    Nike likes Lily.
+
+
+    (2) 疑问句 否定句
+
+    She (likes) playing Pingpong.
+    She doesn't likes playing Pingpong.
+    Does she (like) Pingpong?
+
+    He (has) a cat.
+    He doesn't has a cat.
+    Does he (have) a cat?
+
+    My father likes wine.
+    My father doesn't likes wine.
+    Does your father like wine?
+
+    The dog barks every day.
+    The dog doesn't barks every day.
+    Does the dog bark every day?
+
+
+
+4. 一般现在时态的时间状语
+
+    (1)
+    every second/minute/hour/day/week/month/year
+
+    (2)
+    频度副词： always often usually sometimes seldom(很少) occasionally(偶尔) never(从不)
+
+    主语 + am/is/are + 频度副词 + 表语
+    I am often late.
+    She is always hard-working.
+    Do you always get up late?
+    Can you often read English?
+    I can often run in the morning.
+
+    主语 + 频度副词 + 谓语 + 宾语
+    I never drink wine.
+    She always comes back late at night.
+    I seldom go shopping.
+
+
+    只有助动词do/does/did, 情态动态后面的动词会变原型。
+
+
+
+
+
+
 
 
 
