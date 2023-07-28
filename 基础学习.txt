@@ -682,7 +682,7 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
 
 
 
-    (2) 否定句
+    (2) 否定句 am/is/are + not
 
         I'm a teacher.
         I'm not a teacher.
@@ -698,7 +698,7 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
 
 
 
-    (3) 一般疑问句
+    (3) 一般疑问句 系动词提前
 
         I am a teacher.
         Are you a teacher?
@@ -743,7 +743,8 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
     Nick and Jack buy clothes every month.
 
 
-    (2) 疑问句 否定句
+    (2) 疑问句 Do ...
+	否定句 don't
 
     My friends believe me.
     My friends don't believe me.
@@ -795,7 +796,8 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
     Nike likes Lily.
 
 
-    (2) 疑问句 否定句
+    (2) 疑问句 Does
+	否定句 doesn't
 
     She (likes) playing Pingpong.
     She doesn't likes playing Pingpong.
@@ -960,15 +962,162 @@ before
 
 
     (2) 介词 in
-    in 2023
+    in 2022 在过去的某一年
 
     (3) 副词 last
     last hour 一个小时前
     last week 上周
+I 
 
     (4)
     I was tired this morning.
     She was sad that day. 那天她伤心。
+
+
+
+
+
+
+
+十. 一般将来时
+will & be going to
+
+1. will 主系表
+    will be 
+
+    (1) 人称代词主格(主语) + will be + 形容词作表语 + 表将来的时间状语
+    I will be busy tomorrow. 
+
+    (2) 名词（主语）+ will be + 形容词作表语 + 表将来的时间状语
+    Nick will be busy tomorrow.
+    A and B will be busy tomorrow.
+    This book will be famous in the future.
+    Rice will be cheap in the future.
+
+    (3) 人称代词主格(主语) + will be + 名词作表语 + 表将来的时间状语
+    I will be a leader in the future.
+    It will be a school in the future.
+
+
+    (4) 名词（主语）+ will be + 名词作表语 + 表将来的时间状语
+    Nick will be a leader in the future.
+
+    注意：(在英式英语里面，当主语是 I 或者 we 的时候, 可以用 shall be 代替 will be.
+
+
+    疑问句：will移到开头
+    否定句：will not === won't
+
+    I will be a teacher next year.
+    I won't be a teacher next year.
+    Will you be a teacher next year?
+
+    She will be a manager next month.
+    She won't be a manager next month.
+    Will she be a manager next month?
+
+
+2. will 主谓宾
+    will
+
+    (1) 人称代词主格(主语) + will + 不及物动词原型（复合谓语）＋ 表将来的时间状语
+    I will dance tomorrow.   (will + dance 为复合谓语)
+    You I travel next month.
+
+
+    (2) 名词（主语）+ will + 不及物动词原型（复合谓语)＋表将来的时间状语
+    Nick will rest tomorrow.
+    My students will travel tomorrow.
+    The police will run tomorrow.
+
+
+    (3) 人称代词主格（主语）+ will + 及物动词原型（复合谓语）+ 宾语 ＋ 表将来的时间状语
+    I will eat an apple tomorrow.
+    He will bake corn(玉米 不可数名词) tomorrow.
+    He will help my classmate tomorrow.
+
+
+    (4) 名词（主语）+ will + 及物动词原型（复合谓语）+ 宾语 ＋ 表将来的时间状语
+    Nick will eat an apple tomorrow.
+    Nick will help my students tomorrow.
+    My daughters will drink juice tomorrow.
+
+
+    疑问句：will移到开头
+    否定句：will not === won't
+
+    I will buy a house next year.
+    I won't buy a house next year.
+    Will you buy a house next year?
+
+
+    She will live here next year.
+    She won't live here next year.
+    Will she live here next year?
+
+    He will find a job this summer.
+    He won't find a job this summer.
+    Will he find a job this summer?
+
+
+3. 一般将来时的时间状语
+
+    (1) next + 时间单数: next month/year/week/season(季度)
+    I will travel next month.
+
+    (2) after + ...
+    after work, after 6:00. 6点之后
+    after school
+    after class
+
+    after 28 years old
+    after three months old 三个月大以后
+
+    after 2024 2024年之后
+    I will buy a car after 2024.
+    I will be happy after three days. 不能这样说.
+
+    (3) 
+    in a week 一周之后 
+    in 2024 在将来的某一年
+
+    (4) later (偶尔用于将来) ...之后
+    three days later 三天之后 
+    Say you later.
+
+
+4. be going to
+
+    (1) 主系表
+    人称代词主格(主语)/名词 + will be + 形容词作表语 + 表将来的时间状语
+    人称代词主格(主语)/名词 + be going to be + 形容词作表语 + 表将来的时间状语
+
+    名词单数 + is going to be ...
+    名词复数 + are gong to be ...
+    My teacher is going to be busy tomorrow.
+    His friends are going to be busy tomorrow.
+
+    (2) 主谓宾
+    I am going to buy a car tomorrow.
+    You are going to ...
+    My teacher is going to ...
+    Her friends are going to ...
+
+5. 区别
+    Will 强调一种意志
+    Be going to 纯粹表达将来的动作。
+
+    补充缩写 
+    (1) I'll 
+    (2) 在美国口语里， going to 变成 gonna
+    I am going to buy a car.
+    I am gonna    buy a car.
+
+
+
+
+
+
 
 
 
