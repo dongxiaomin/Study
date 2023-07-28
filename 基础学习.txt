@@ -643,6 +643,7 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
 
 
 八. 一般现在时
+经常，习惯，有规律性的动作/状态.
 
 1. 主系表结构
 
@@ -1095,7 +1096,10 @@ will & be going to
     名词单数 + is going to be ...
     名词复数 + are gong to be ...
     My teacher is going to be busy tomorrow.
+
     His friends are going to be busy tomorrow.
+    His friends aren't going to be busy tomorrow.
+    Are his friends going to be busy tomorrow?
 
     (2) 主谓宾
     I am going to buy a car tomorrow.
@@ -1120,9 +1124,9 @@ will & be going to
 
 此时此刻的动作
 
-1. 主语+be(is/am/are)+动词的现在分词
+1. 主语 + be(is/am/are) + 动词的现在分词
 
-be: 系动词作 助动词
+be: 系动词 作 助动词
 
 now, right now（立刻 马上）, at the moment(此刻)
 
