@@ -1,7 +1,8 @@
 20230725
 
-Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd_source=14fedc3c63ed079cd9eb76b1b47d1f84
+----------------------- 第一部分 -----------------------
 
+Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd_source=14fedc3c63ed079cd9eb76b1b47d1f84
 
 一.  8个句子成分和基本句型
 
@@ -639,7 +640,7 @@ Ref: https://www.bilibili.com/video/BV1Ub411c7mw/?p=14&spm_id_from=pageDriver&vd
 
 七. 时态: 谓语动词发生变化。
 
-常用的时态：一般现在时，一般过去时，一般将来时，现在进行时，现在完成时
+常用的时态：一般现在时，一般过去时，一般将来时，现在进行时，(现在完成时 TODO)
 
 
 八. 一般现在时
@@ -1195,6 +1196,127 @@ I'm working now.
     She is leaving for Beijing.
     They are coming.
     The train is arriving.
+
+
+
+
+
+----------------------- 第二部分 -----------------------
+
+Ref: 
+https://www.bilibili.com/video/BV1it4y187QR?p=66&vd_source=14fedc3c63ed079cd9eb76b1b47d1f84
+
+https://www.bilibili.com/video/BV1bP411w7kX?p=33&vd_source=14fedc3c63ed079cd9eb76b1b47d1f84
+
+介词 
+介词短语 
+现在完成时
+There be
+情态动词
+特殊疑问问
+动词不定式
+动名词
+被动语态
+
+
+
+一. 副词
+
+其他副词：still again also
+
+1. 时间副词：作时间状语
+
+    (1)
+    now 现在/此刻  现在进行时  I am working now.
+    now 现如今     一般现在时  We don't eat the wild fruit now.
+
+    (2)
+    soon 立刻/马上 一般将来时 
+
+    (3)
+    ago ...之前   一般过去时 
+
+    (4)
+    every day 多数一般现在时，有时也用在一般将来时，一般过去时
+
+    (5)
+    today 今天  tonight 今晚
+    主谓宾句型只能用一般过去进行时或将来时态，不能乱用在一般现在时态。
+
+    I ate two apples today.
+    I will buy many apples today.
+    I learn English today. (错误，一般现在时强调经常性)
+    It is fine today.
+    I am busy today.
+
+    (6)
+    This + 时间名词单数，跟today用法一样
+    That + 时间名词单数，多用于一般过去时
+
+
+2. 地点副词：
+    here
+
+    (1) 作地点状语
+    I am happy here.
+    I learn English here every day.
+    They drank beer here last night.
+
+    (2) 作宾补
+    I put my money here.
+    I keep money here.
+
+    (3) 作介词宾语
+    From
+    He has just come back from abroad.
+    How far is your school from here?
+
+
+3. 方式副词：表示动作的方式
+    I love you (very much).
+    She cried (suddenly). 突然地
+    She cried (loudly). 大声地
+
+    比较级：
+    I sing loudly every day.
+    I sing more loudly every day than she.
+
+    最高级：
+    I run fast.
+    I run fastest than she.
+
+
+4. 程度副词: 
+    修饰形容词
+    very, so, pretty，much + 比较级
+
+    修饰形容词
+    I teach you English very patiently.
+
+
+5. 频度副词
+    often, always
+    I often eat rice.
+    We often swim.
+
+    I am always busy.
+    I am often late.
+
+
+注意：一般顺序：方式，地点，时间状语顺序
+He is working hard outside now.
+My brother reads English loudly upstairs every day.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
